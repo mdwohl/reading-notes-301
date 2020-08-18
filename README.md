@@ -8,3 +8,4 @@ Reading notes for *Code 301*
 1. [Class 04](class04.md)
 1. [Class 05](class05.md)
 1. [Class 06](class06.md)
+1. [Class 07](class07.md)
